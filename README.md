@@ -1,1 +1,1 @@
-# DBMS-case-study
+# Shell Training Docs
